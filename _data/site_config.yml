@@ -224,7 +224,7 @@ progress_status:
 proxy_indicators:
   label: data.proxytag
   description: data.proxytext
-remote_data_prefix: 'https://hagstovan.github.io/staging_sdg_data'
+remote_data_prefix: 'https://hagstovan.github.io/staging-sdg-data'
 reporting_status:
   title: status.reporting_status
   description: status.description
@@ -239,7 +239,7 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://github.com/hagstovan/staging_sdg_data'
+repository_url_data: 'https://github.com/hagstovan/staging-sdg-data'
 repository_url_site: ''
 search_index_boost: []
 search_index_extra_fields: []
