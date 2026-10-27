@@ -132,8 +132,8 @@ header:
   include: header-menu-left-aligned.html
 header_language_toggle: dropdown
 hide_empty_metadata: true
-hide_single_series: true
-hide_single_unit: true
+hide_single_series: false
+hide_single_unit: false
 indicator_config_form:
   enabled: true
   dropdowns: []
